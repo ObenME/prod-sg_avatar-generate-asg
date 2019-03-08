@@ -1,0 +1,1 @@
+Scale Generate Avatar Service
